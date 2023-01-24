@@ -173,7 +173,9 @@ Finally, completed the entire task of task summarization, with an average accura
 + Jupyter Notebook ipynb file: [Text Summarization.zip](https://github.com/ShivamSrng/TextSummarization/files/10488096/Text.Summarization.zip)
 + PDF of Jupyter Notebook: [Text Summarization - Jupyter Notebook.pdf](https://github.com/ShivamSrng/TextSummarization/files/10488074/Text.Summarization.-.Jupyter.Notebook.pdf)
 + Final Result CSV File: [Final Result.csv](https://github.com/ShivamSrng/TextSummarization/files/10488117/Final.Result.csv)
-
+<br><br>
+![giphy (6)](https://user-images.githubusercontent.com/67229090/214257463-7043112c-2203-40b7-9b60-86b1adbc235a.gif)
+<br><br>
 
 
 
